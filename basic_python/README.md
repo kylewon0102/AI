@@ -1,4 +1,6 @@
-This is Folder for Basic Informations:
+Basic Python Informations:
 -
 
 Orgnaized in 00x_content-Info_summary.ipynb
+
+001 - Numpy
