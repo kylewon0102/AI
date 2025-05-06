@@ -2,7 +2,10 @@ Overfitting Techniques:
 - save & load models
 - earlystopping
 
-normalizing
+
+Normalizing
+- normalizing
+
 
 kaggle:
 - titanic attempts
