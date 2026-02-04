@@ -1,1 +1,1 @@
-All my learnings of AI
+A repository bundling more than 50 mini‑projects that showcase experience implementing machine‑learning and deep‑learning models.  You experimented with a wide range of algorithms—CNN/Transfer Learning, RNN/LSTM, reinforcement learning and GANs—using Python (PyTorch/TensorFlow).
